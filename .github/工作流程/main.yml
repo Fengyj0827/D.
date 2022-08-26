@@ -1,0 +1,28 @@
+{
+#公众号配置
+#公众号appId
+"app_id": "wx1dd8a0ea0b683e62",
+#公众号appSecret
+“app_secret”：“d0ea513aa780fbd4ef3dc283162b28e7”，
+# 模板消息id
+"template_id": "NW8y-lA3g5IoSSPeNVEJW-4Jf4BWCExgrzKIDKKXaIc",
+# 接收英文公众号的微信号，如果有多个，需要在[]里用逗号间隔，例如["wx1", "wx2"]
+“用户”：[“oF8Pd6jGI4JvvmNdRlhOWli-ZttM”，“oF8Pd6rXfICd3izUiAy7QQuEoLOw”]，
+
+# 信息配置
+# 和风天气 apikey
+“天气键”： 	
+“1e5ccc4130624be5952a8012cd61aba2”，
+# 所在地区，省，城市，区，县，同时支持国外城市，例如伦敦
+"区域":"十堰市",
+# 1，名字修改为需要显示的，如果生日为农历，在最前面加就可以了
+"birthday1": {"name": "强迪云小同志", "birthday": "2002-05-21"},
+#生日2
+"birthday2": {"name": "冯亚小娟同志", "birthday": "r2002-08-27"},
+# 的日子，格式同上，暂不支持农历
+"love_date": "2022-05-13",
+#中文，如果设置了，如果设置了金山的句子，这里默认显示金句，每天
+"note_ch": "天若有道，自不会让有情人分开！",
+# 金英文句
+"note_cn": "不在一起的每一天，我们都期待着下一次的相遇"
+}
